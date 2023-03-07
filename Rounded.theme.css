@@ -1,0 +1,14 @@
+/**
+ * @name Rounded
+ * @description Rounded Edges.
+ * @author Pooki
+ * @version 1
+ * @source https://github.com/refact0r/midnight-discord
+ * @authorId LukaePooki@gmail.com
+*/
+
+@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+
+:root {
+	--roundness: 16px;
+}
